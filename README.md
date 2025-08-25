@@ -13,3 +13,6 @@ Key Features:
 
 🔐 User authentication and account management
 
+
+![amazon.png](https://github.com/Shwta23/Amozon-clone/blob/main/amazon.png)
+
